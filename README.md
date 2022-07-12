@@ -5,7 +5,10 @@
 
 This is written mainly for those scripts that are not packaged as exe files to get permissions(pass UAC).
 
-**有'大聪明'没关UAC，我不说是谁* *
+**有"大聪明"没关UAC，我不说是谁* *
+
+图标作者(Icon author)：LIYOUNG
+ https://www.iconfont.cn/user/detail?uid=149438&nid=WJvLCUeSEEyE
 
 ---
 # 使用方法 Usage
