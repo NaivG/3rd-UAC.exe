@@ -15,7 +15,8 @@ This is written mainly for those scripts that are not packaged as exe files to g
 
 命令行：
 
-    UAC.exe [file]   '使用全路径 Full path to the file
+    UAC.exe [file]   '使用全路径  Full path to the file
+    UAC.exe firstrun   '检测是否能运行，生成success.tmp  Check if it works, generate success.tmp
 
 或者直接把可执行文件拖上来
 
