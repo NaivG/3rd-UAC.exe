@@ -1,4 +1,4 @@
-# 3rd-UAC.exe
+# UAC.exe
 为各种测试脚本提权（get permissions for various test scripts）
 
 写这东西主要是为那些未封装成exe文件的脚本提权
