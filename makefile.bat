@@ -1,0 +1,1 @@
+mt.exe -manifest UAC.exe.manifest -outputresource:UAC.exe;1
